@@ -6,6 +6,8 @@
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="800" height="600"/>
 </p>
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg" >
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
