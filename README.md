@@ -4,7 +4,6 @@
 
 <p align="center">
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="800" height="600"/>
-     <img style="float:left" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="800" height="600"/>
 </p>
 
 <picture>
